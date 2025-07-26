@@ -1,4 +1,10 @@
 # PerpusKU
+
+Ini adalah program yang dibuat untuk memenuhi tugas UAS mata kuliah Pemrograman Web<br>
+Untuk menjalankan ini di local anda install xampp, buat database atau import database yang sudah disediakan dengan nama perpusdb.sql<br>
+Untuk default login adalah:<br>
+User : admin@perpus.com<br>
+Pass : password123<br>
 Tampilan Aplikasi WebBased PerpusKU <br>
 <img width="642" height="599" alt="image" src="https://github.com/user-attachments/assets/52708fb9-7aea-46dc-b400-4533ea26946e" /><br>
 Tampilan Dashboard <br>
